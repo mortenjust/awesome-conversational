@@ -71,6 +71,7 @@
 ## Books
 * [Wired for Speech](http://www.amazon.com/gp/product/B001949SMM/ref=dp-kindle-redirect?ie=UTF8&btkr=1)
 * [The Jack Principles](http://demos.jellyvisionlab.com/downloads/The_Jack_Principles.pdf)
+* [The Media Equation](http://www.amazon.com/The-Media-Equation-Computers-Television/dp/1575860538/ref=pd_sim_14_10?ie=UTF8&dpID=51KGobpmiqL&dpSrc=sims&preST=_AC_UL160_SR106%2C160_&refRID=0E5AZXPPMAV64HF1GVT2). How People Treat Computers, Television, and New Media Like Real People and Places.
 
 ## Often-referred-to articles
 - [Conversational UIs](http://interconnected.org/home/2015/06/16/conversational_uis) by Matt Webb.
@@ -113,6 +114,8 @@
 
 ### UI Kits
 * [Atlas](https://atlas.layer.com/ios). Conversation list, chat, input. For iOS and Android. 
+* [Chats](https://github.com/acani/Chats). Full open source iOS native chat app. 
+* [ParseChat](https://github.com/relatedcode/ParseChat). 
 
 ## Misc
 - [Ongoing Product Hunt Collection](https://www.producthunt.com/@chrismessina/collections/convcomm) by Chris Messina
