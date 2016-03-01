@@ -1,7 +1,7 @@
 # Conversational UI
 
 ## Apps and bots
-### Standalone
+### Standalone native apps
 * [Quartz](http://thenextweb.com/apps/2016/02/11/quartzs-ios-app-turns-news-into-a-conversation-and-its-unlike-anything-else-youve-used/#gref). Chat with the news. 
 * [Operator](https://www.operator.com/). Buy anything, mainly from Amazon. 
 * [First Opinion](https://firstopinionapp.com/). Chat with a doctor. 
