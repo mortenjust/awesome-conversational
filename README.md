@@ -1,4 +1,4 @@
-# Awesome Conversational UI
+# Conversational UI
 
 ## Apps and bots
 ### Standalone
