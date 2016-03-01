@@ -1,7 +1,7 @@
-# Conversational UI
+# Awesome Conversational UI
 
 ## Apps and bots
-### Standalone native apps
+### Standalone
 * [Quartz](http://thenextweb.com/apps/2016/02/11/quartzs-ios-app-turns-news-into-a-conversation-and-its-unlike-anything-else-youve-used/#gref). Chat with the news. 
 * [Operator](https://www.operator.com/). Buy anything, mainly from Amazon. 
 * [First Opinion](https://firstopinionapp.com/). Chat with a doctor. 
@@ -13,9 +13,21 @@
 * [Fin](https://www.fin.ventures/)
 * [Penny](https://www.pennyapp.io/). Personal finance coach
 * [Little Bing](https://en.wikipedia.org/wiki/Xiaoice) Microsoft
+* [Riley](https://getrileynow.com). Apartment hunting.
+* [Night Owl](http://www.heynightowl.com/). Homework help. 
+* [Mezi](https://mezi.com/). Shopping assistant.
+* [Josh](https://www.josh.ai/). Home automation assistant.
+* [Evia](https://insurify.com/evia). Insurance assistant. 
+* [MagicTiger](http://magictiger.com/). Order anything.
+* [Suto](http://asksuto.com/). Expert product recommendations. 
+* [Bradley](http://www.heybradley.com/). Travel booking and recommendations.
+* [PadPolish](http://www.padpolish.com/). Housekeeping.
+* [HelloShopper](https://www.helloshopper.com). Gift ideas.
+* [Ava](http://www.heyava.com/). Find experts.
+* [TalkSpace](http://www.talkspace.com/). Talk to a therapist.
+* [Alice](https://couple.me/alice). An artificial intelligence partner. 
 
-
-### Bots in other systems
+### Bots on Telegram, Slack, WeChat and SMS
 * [Forbes on Telegram](http://www.forbes.com/sites/bruceupbin/2016/02/23/introducing-the-forbes-newsbot-on-telegram/#1f4e3bf13117). Chat with the news. 
 * [Skyscanner on Telegram](http://codevoyagers.com/2015/11/14/the-bots-are-coming%E2%80%8B-conversational-ui-and-introducing-the-skyscanner-telegram-bot/?linkId=19155965). Flights. 
 * [Taylor on Telegram](https://taylorbot.com). Travel recommendations. 
@@ -33,11 +45,20 @@
 - [Gobutler](http://www.gobutlernow.com/). General assistant.
 - [Unload](http://unld.it/). Sell stuff with a text.
 - [Awesome PA](http://textawesome.co.uk/). Personal assistant for startups.
+- [Drinkeasy](http://drinkeasy.co/). Alcohol recommendations and delivery. 
+- [Pro](https://pro.com). Home projects. 
+- [Hello Hipmunk](https://www.hipmunk.com/hello). Travel booking.
+- [Sensei](https://sensay.it/). Help with anything. 
+- [WeChat secretary](http://wesecretary.com/).
+- [Julia](http://getgems.org/julia/). Bitcoin teller.
+- [Dispatch](http://dispatch.pm/). Order anything from London stores.
+
 
 ### Calendar bots
 * [Clara](https://claralabs.com/)
 * [x.ai](https://x.ai/)
 * [Meekan](https://meekan.com/slack/)
+* [Julie Desk](https://www.juliedesk.com/). 
 
 ### Keyboards
 * [Slash Keybaord](http://tapslash.com/)
@@ -60,6 +81,10 @@
 - [Design is a conversation](https://blog.intercom.io/design-is-a-conversation/) by Emmet Connoly
 - [When One App Rules Them All: The Case of WeChat and Mobile in China](http://a16z.com/2015/08/06/wechat-china-mobile-first/) by Connie Chan
 
+## News
+- [Messaging Weekly](http://www.messagingweekly.com/). From the Smooch team. 
+- Medium: [Conversational UI](https://medium.com/tag/conversational-ui), [Conversational Commerce](https://medium.com/tag/conversational-commerce) [2](https://medium.com/tag/convcomm), [Chat](https://medium.com/tag/chat), [Messaging](https://medium.com/tag/messaging)
+
 ## Movies
 * [Her](http://www.imdb.com/title/tt1798709/). 2013. 
 * [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/?ref_=ttqt_qt_tt). 1968. 
@@ -69,14 +94,22 @@
 * [Wit.ai](https://wit.ai/)
 * [API.ai](https://api.ai/)
 
-### Full service APIs
+### Full service APIs and packages
 - [Motion.ai](http://motion.ai/)
 - [Lobby Boy](http://supportkit.github.io/lobby-boy/).
 - [Smooch](https://smooch.io/).   
+- [Rhombus](https://www.getrhombus.com). 
+
+### Hosting
+[Beep Boop](https://beepboophq.com/). Hosting for Slack robots.
 
 ### APIs
 * [Botkit for Slack](https://github.com/howdyai/botkit)
 * [Telegram Bot API](https://core.telegram.org/bots/api)
+* [Amazon Alexa Skills Kit](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit). 
+
+### Examples
+- [Monica](https://github.com/zephrys/monica). Food ordering command line. 
 
 ### UI Kits
 * [Atlas](https://atlas.layer.com/ios). Conversation list, chat, input. For iOS and Android. 
