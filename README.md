@@ -54,11 +54,11 @@
 ## Often-referred-to articles
 - [Conversational UIs](http://interconnected.org/home/2015/06/16/conversational_uis) by Matt Webb.
 - [Futures of text](http://whoo.ps/2015/02/23/futures-of-text) by Jonathan Libov
-- 2016 the year of conversational commerce by Chris Messina 
-- On Bots, Conversation Apps, and Fin
-- Making a chat bot
-- Design is a conversation
-- When One App Rules Them All: The Case of WeChat and Mobile in China
+- [2016 will be the year of conversational commerce](https://medium.com/chris-messina/2016-will-be-the-year-of-conversational-commerce-1586e85e3991#.1lebb324y) by Chris Messina 
+- [On Bots, Conversation Apps, and Fin](https://www.fin.ventures/letters/on-bots-conversational-apps-and-fin) by Sam Lessin
+- [Making a chat bot](https://medium.com/@rob_ellis/creating-a-chat-bot-42861e6a2acd#.i5ytqhgmj) by Rob Ellis
+- [Design is a conversation](https://blog.intercom.io/design-is-a-conversation/) by Emmet Connoly
+- [When One App Rules Them All: The Case of WeChat and Mobile in China](http://a16z.com/2015/08/06/wechat-china-mobile-first/) by Connie Chan
 
 ## Movies
 * [Her](http://www.imdb.com/title/tt1798709/). 2013. 
