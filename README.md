@@ -64,6 +64,7 @@
 * [Slash Keybaord](http://tapslash.com/)
 * [Meet](https://sunrise.am/meet/). Sunrise
 * [WordsU](http://www.wordsu.com/). Write with different personas.
+* [Homer](http://homer.ms/). Conversation keyboard.
 
 ## Physical products
 * [Amazon Echo](http://www.amazon.com/dp/B00X4WHP5E)
