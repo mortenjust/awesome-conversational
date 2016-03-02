@@ -2,7 +2,7 @@
 
 ## Apps and bots
 ### Standalone
-* [Quartz](http://thenextweb.com/apps/2016/02/11/quartzs-ios-app-turns-news-into-a-conversation-and-its-unlike-anything-else-youve-used/#gref). Chat with the news. 
+* [Quartz](http://qz.com/613700/its-here-quartzs-first-news-app-for-iphone/). Chat with the news. 
 * [Operator](https://www.operator.com/). Buy anything, mainly from Amazon. 
 * [First Opinion](https://firstopinionapp.com/). Chat with a doctor. 
 * [Luka](https://luka.ai/). Restaurant recommendations in San Francisco 
