@@ -60,6 +60,12 @@
 * [Meekan](https://meekan.com/slack/)
 * [Julie Desk](https://www.juliedesk.com/). 
 
+### Assistants from The Big Four
+* [Google Now and Search](https://www.google.com/landing/now/)
+* Amazon Alexa on [Echo](http://www.amazon.com/Amazon-SK705DI-Echo/dp/B00X4WHP5E), [Tap](http://www.amazon.com/dp/B00VXS8E8S/ref=fs_ods_fs_aucc_fx) and [Dot](http://www.amazon.com/b/?node=14047587011)
+* Microsoft [Cortana](https://www.microsoft.com/en-us/mobile/experiences/cortana/)
+* [Facebook M](http://www.wired.com/2015/08/facebook-launches-m-new-kind-virtual-assistant/)
+
 ### Keyboards
 * [Wonder Keybaord](http://www.typewithwonder.com/)
 * [Slash Keybaord](http://tapslash.com/)
