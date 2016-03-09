@@ -89,6 +89,7 @@
 - [Making a chat bot](https://medium.com/@rob_ellis/creating-a-chat-bot-42861e6a2acd#.i5ytqhgmj) by Rob Ellis
 - [Design is a conversation](https://blog.intercom.io/design-is-a-conversation/) by Emmet Connoly
 - [When One App Rules Them All: The Case of WeChat and Mobile in China](http://a16z.com/2015/08/06/wechat-china-mobile-first/) by Connie Chan
+- [Messaging and mobile platforms](http://ben-evans.com/benedictevans/2015/3/24/the-state-of-messaging) by Benedict Evans
 
 ## News
 - [Messaging Weekly](http://www.messagingweekly.com/). From the Smooch team. 
