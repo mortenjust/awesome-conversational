@@ -11,7 +11,7 @@
 * [Pana](http://pana.com). Flights, hotels, recommendations. 
 * [Lola](https://www.lolatravel.com/). Flights, hotels, recommendations. 
 * [Hound](http://www.soundhound.com/hound)
-* [Fin](https://www.fin.ventures/)
+* [Fin](https://www.fin.ventures/). General meetings
 * [Penny](https://www.pennyapp.io/). Personal finance coach
 * [Little Bing](https://en.wikipedia.org/wiki/Xiaoice) Microsoft
 * [Riley](https://getrileynow.com). Apartment hunting.
