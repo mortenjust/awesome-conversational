@@ -9,7 +9,8 @@
 * [Lark](http://www.web.lark.com/#top). Fitness coach. 
 * [Hyper](https://www.usehyper.com). Flights and hotels. 
 * [Pana](http://pana.com). Flights, hotels, recommendations. 
-[Hound](http://www.soundhound.com/hound)
+* [Lola](https://www.lolatravel.com/). Flights, hotels, recommendations. 
+* [Hound](http://www.soundhound.com/hound)
 * [Fin](https://www.fin.ventures/)
 * [Penny](https://www.pennyapp.io/). Personal finance coach
 * [Little Bing](https://en.wikipedia.org/wiki/Xiaoice) Microsoft
