@@ -29,6 +29,7 @@
 * [Alice](https://couple.me/alice). An artificial intelligence partner. 
 
 ### Bots on Telegram, Slack, WeChat and SMS
+* [DiggBot](http://digg.com/diggbot). News bot on Slack.
 * [Forbes on Telegram](http://www.forbes.com/sites/bruceupbin/2016/02/23/introducing-the-forbes-newsbot-on-telegram/#1f4e3bf13117). Chat with the news. 
 * [Skyscanner on Telegram](http://codevoyagers.com/2015/11/14/the-bots-are-coming%E2%80%8B-conversational-ui-and-introducing-the-skyscanner-telegram-bot/?linkId=19155965). Flights. 
 * [Taylor on Telegram](https://taylorbot.com). Travel recommendations. 
