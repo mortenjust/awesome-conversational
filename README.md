@@ -2,6 +2,7 @@
 
 ## Apps and bots
 ### Standalone
+* [MedWhat](https://medwhat.com/). Virtual medical assistant.
 * [Quartz](http://qz.com/613700/its-here-quartzs-first-news-app-for-iphone/). Chat with the news. 
 * [Operator](https://www.operator.com/). Buy anything, mainly from Amazon. 
 * [First Opinion](https://firstopinionapp.com/). Chat with a doctor. 
